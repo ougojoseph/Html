@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+    int i=11;//start: //initialization
+    do
+    {
+        printf ("Enter a value");
+        scanf ("%d", &i);
+        printf ("%d, \n", i);
+    }
+    while (1<10);
+    return 0;
+}
+
+
