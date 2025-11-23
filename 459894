@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main()
+{
+   int n=6;
+   int ans=1;
+   for(n=6; n>0; n--)
+      ans=ans*n;
+         printf ("factorial=%d", ans);
+         
+      
+      
+   
+   
+   return 0;
+    
+}
+
+
+    
