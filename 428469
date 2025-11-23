@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+    int i=11;//start: //initialization
+    do
+    {
+    printf ("%d, \n", i);
+    i++; //update step 
+    }
+    while (1<10);
+    return 0;
+  }  
+ 
+
